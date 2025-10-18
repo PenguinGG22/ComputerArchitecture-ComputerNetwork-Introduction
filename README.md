@@ -6,5 +6,5 @@ Computer Organization and Design
 Data Communications and Networking with TCP/IP Protocol Suite  
 
 ## Lecture
-Computer Architecture COM3004  
-Computer Network COM3006  
+Computer Architecture COM 3004  
+컴퓨터네트워크 COM 3006  
